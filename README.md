@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tda-8818
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... game projects
+- 👋 Hi, I’m Elsa
+- 👀 I’m interested in ... Full-stack, web, desktop and mobile app development
+- 🌱 I’m currently learning ... MERN stack
+- 💞️ I’m looking to collaborate on ... game, app, LLM projects
 - 📫 How to reach me ... dm me
 
 <!---
